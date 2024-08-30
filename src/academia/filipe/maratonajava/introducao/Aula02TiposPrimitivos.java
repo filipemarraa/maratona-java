@@ -20,5 +20,8 @@ public class Aula02TiposPrimitivos {
         char caracter = 'M'; //Apenas uma letra (Bom pra usar em Masculino(M) e Feminino(F))
 
         System.out.println("O seu pai é " + falso);
+
+        String nome = "Filipe";
+        System.out.printf("Seu nome é: " + nome);
     }
 }
