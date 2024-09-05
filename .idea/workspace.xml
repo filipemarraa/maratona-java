@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67f3c3ec-e5d2-49d8-b18e-0fa20e051370" name="Changes" comment="Aulas 13 até 16 do DevDojo">
-      <change afterPath="$PROJECT_DIR$/src/academia/filipe/maratonajava/introducao/Aula16OperadoresRelacionais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academia/filipe/maratonajava/introducao/Aula19OperadoresAtribuicao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academia/filipe/maratonajava/introducao/Aula20EstruturasCondicionais01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academia/filipe/maratonajava/introducao/Aula20EstruturasCondicionais02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academia/filipe/maratonajava/introducao/Aula20EstruturasCondicionais03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academia/filipe/maratonajava/introducao/exercicio01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,8 +58,17 @@
     "Application.Aula04Operadores.executor": "Run",
     "Application.Aula05OperadoresRelacionais.executor": "Run",
     "Application.Aula16OperadoresRelacionais.executor": "Debug",
+    "Application.Aula19OperadoresAtribuicao.executor": "Run",
+    "Application.Aula20EstruturasCondicionais.executor": "Run",
+    "Application.Aula20EstruturasCondicionais01.executor": "Run",
+    "Application.Aula20EstruturasCondicionais02.executor": "Run",
+    "Application.Aula20EstruturasCondicionais03.executor": "Run",
+    "Application.Aula20EstruturasCondicionaisIF.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.OlaDevDojo.executor": "Run",
+    "Application.Resolucao01.executor": "Run",
+    "Application.exercicio.executor": "Run",
+    "Application.exercicio01.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -68,9 +81,9 @@
     "settings.editor.splitter.proportion": "0.25252524"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Aula16OperadoresRelacionais">
-    <configuration name="Aula02TiposPrimitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academia.filipe.maratonajava.introducao.Aula02TiposPrimitivos" />
+  <component name="RunManager" selected="Application.Resolucao01">
+    <configuration name="Aula20EstruturasCondicionais01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academia.filipe.maratonajava.introducao.Aula20EstruturasCondicionais01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +95,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula03TiposPrimitivosExercicio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academia.filipe.maratonajava.introducao.Aula03TiposPrimitivosExercicio" />
+    <configuration name="Aula20EstruturasCondicionais02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academia.filipe.maratonajava.introducao.Aula20EstruturasCondicionais02" />
+      <module name="maratona-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Aula20EstruturasCondicionais03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academia.filipe.maratonajava.introducao.Aula20EstruturasCondicionais03" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula04Operadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academia.filipe.maratonajava.introducao.Aula04Operadores" />
+    <configuration name="Resolucao01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academia.filipe.maratonajava.introducao.Resolucao01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +128,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula16OperadoresRelacionais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academia.filipe.maratonajava.introducao.Aula16OperadoresRelacionais" />
+    <configuration name="exercicio01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academia.filipe.maratonajava.introducao.exercicio01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -117,24 +137,17 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OlaDevDojo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academia.filipe.maratonajava.introducao.OlaDevDojo" />
-      <module name="maratona-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Aula16OperadoresRelacionais" />
-        <item itemvalue="Application.Aula04Operadores" />
-        <item itemvalue="Application.Aula03TiposPrimitivosExercicio" />
-        <item itemvalue="Application.Aula02TiposPrimitivos" />
-        <item itemvalue="Application.OlaDevDojo" />
+        <item itemvalue="Application.Resolucao01" />
+        <item itemvalue="Application.exercicio01" />
+        <item itemvalue="Application.Aula20EstruturasCondicionais03" />
+        <item itemvalue="Application.Aula20EstruturasCondicionais02" />
+        <item itemvalue="Application.Aula20EstruturasCondicionais01" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725018452277</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Aulas 13 até 16 do DevDojo">
+      <option name="closed" value="true" />
+      <created>1725081072873</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725081072873</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
