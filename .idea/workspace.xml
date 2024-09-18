@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67f3c3ec-e5d2-49d8-b18e-0fa20e051370" name="Changes" comment="Aulas novas do DevDojo">
-      <change afterPath="$PROJECT_DIR$/src/academia/filipe/maratonajava/introducao/Aula25EstruturasCondicionaispt06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academia/filipe/maratonajava/introducao/Aula26EstruturasCondicionaisExercicioSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academia/filipe/maratonajava/introducao/Aula27EstruturasDeReticaopt01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academia/filipe/maratonajava/introducao/Aula28EstruturasDeRepeticaopt02ExercicioFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academia/filipe/maratonajava/introducao/Aula29EstruturasDeRepeticaopt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academia/filipe/maratonajava/introducao/Aula30EstruturasDeRepeticaoExercicioBreak.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +65,12 @@
     "Application.Aula20EstruturasCondicionais03.executor": "Run",
     "Application.Aula20EstruturasCondicionaisIF.executor": "Run",
     "Application.Aula25EstruturasCondicionaispt06.executor": "Run",
+    "Application.Aula26EstruturasCondicionaisExercicioSwitch.executor": "Run",
+    "Application.Aula26ExercicioSwitch.executor": "Run",
+    "Application.Aula27EstruturasDeReticaopt01.executor": "Run",
+    "Application.Aula28EstruturasDeRepeticaopt02ExercicioFor.executor": "Run",
+    "Application.Aula29EstruturasDeRepeticaopt.executor": "Run",
+    "Application.Aula30EstruturasDeRepeticaoExercicioBreak.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.OlaDevDojo.executor": "Run",
     "Application.Resolucao01.executor": "Run",
@@ -78,16 +88,9 @@
     "settings.editor.splitter.proportion": "0.25252524"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Aula25EstruturasCondicionaispt06">
-    <configuration name="Aula20EstruturasCondicionais02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academia.filipe.maratonajava.introducao.Aula20EstruturasCondicionais02" />
-      <module name="maratona-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Aula20EstruturasCondicionais03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academia.filipe.maratonajava.introducao.Aula20EstruturasCondicionais03" />
+  <component name="RunManager" selected="Application.Aula30EstruturasDeRepeticaoExercicioBreak">
+    <configuration name="Aula26EstruturasCondicionaisExercicioSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academia.filipe.maratonajava.introducao.Aula26EstruturasCondicionaisExercicioSwitch" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -99,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula25EstruturasCondicionaispt06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academia.filipe.maratonajava.introducao.Aula25EstruturasCondicionaispt06" />
+    <configuration name="Aula27EstruturasDeReticaopt01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academia.filipe.maratonajava.introducao.Aula27EstruturasDeReticaopt01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -112,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Resolucao01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academia.filipe.maratonajava.introducao.Resolucao01" />
+    <configuration name="Aula28EstruturasDeRepeticaopt02ExercicioFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academia.filipe.maratonajava.introducao.Aula28EstruturasDeRepeticaopt02ExercicioFor" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -125,8 +128,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exercicio01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academia.filipe.maratonajava.introducao.exercicio01" />
+    <configuration name="Aula29EstruturasDeRepeticaopt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academia.filipe.maratonajava.introducao.Aula29EstruturasDeRepeticaopt" />
+      <module name="maratona-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academia.filipe.maratonajava.introducao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Aula30EstruturasDeRepeticaoExercicioBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academia.filipe.maratonajava.introducao.Aula30EstruturasDeRepeticaoExercicioBreak" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
@@ -140,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Aula25EstruturasCondicionaispt06" />
-        <item itemvalue="Application.Resolucao01" />
-        <item itemvalue="Application.exercicio01" />
-        <item itemvalue="Application.Aula20EstruturasCondicionais03" />
-        <item itemvalue="Application.Aula20EstruturasCondicionais02" />
+        <item itemvalue="Application.Aula30EstruturasDeRepeticaoExercicioBreak" />
+        <item itemvalue="Application.Aula29EstruturasDeRepeticaopt" />
+        <item itemvalue="Application.Aula28EstruturasDeRepeticaopt02ExercicioFor" />
+        <item itemvalue="Application.Aula27EstruturasDeReticaopt01" />
+        <item itemvalue="Application.Aula26EstruturasCondicionaisExercicioSwitch" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +213,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725546560778</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Aulas novas do DevDojo">
+      <option name="closed" value="true" />
+      <created>1726148749642</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726148749642</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
