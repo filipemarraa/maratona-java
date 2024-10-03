@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67f3c3ec-e5d2-49d8-b18e-0fa20e051370" name="Changes" comment="Aulas novas do DevDojo">
-      <change afterPath="$PROJECT_DIR$/src/academia/filipe/maratonajava/introducao/Aula26EstruturasCondicionaisExercicioSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academia/filipe/maratonajava/introducao/Aula27EstruturasDeReticaopt01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academia/filipe/maratonajava/introducao/Aula28EstruturasDeRepeticaopt02ExercicioFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academia/filipe/maratonajava/introducao/Aula29EstruturasDeRepeticaopt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academia/filipe/maratonajava/introducao/Aula30EstruturasDeRepeticaoExercicioBreak.java" afterDir="false" />
+    <list default="true" id="67f3c3ec-e5d2-49d8-b18e-0fa20e051370" name="Changes" comment="Aulas e Exercicios novos do DevDojo">
+      <change afterPath="$PROJECT_DIR$/src/java10x/condicoes/LacodeRepeticao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java10x/condicoes/SwitchCases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java10x/condicoes/Ternarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java10x/condicoes/desafio01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java10x/condicoes/scannersValidacaoDados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java10x/dadosNaoPrimitivos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,11 +72,17 @@
     "Application.Aula28EstruturasDeRepeticaopt02ExercicioFor.executor": "Run",
     "Application.Aula29EstruturasDeRepeticaopt.executor": "Run",
     "Application.Aula30EstruturasDeRepeticaoExercicioBreak.executor": "Run",
+    "Application.LacodeRepeticao.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.OlaDevDojo.executor": "Run",
     "Application.Resolucao01.executor": "Run",
+    "Application.SwitchCases.executor": "Run",
+    "Application.Ternarios.executor": "Run",
+    "Application.dadosNaoPrimitivos.executor": "Run",
+    "Application.desafio01.executor": "Run",
     "Application.exercicio.executor": "Run",
     "Application.exercicio01.executor": "Run",
+    "Application.scannersValidacaoDados.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -88,13 +95,13 @@
     "settings.editor.splitter.proportion": "0.25252524"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Aula30EstruturasDeRepeticaoExercicioBreak">
-    <configuration name="Aula26EstruturasCondicionaisExercicioSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academia.filipe.maratonajava.introducao.Aula26EstruturasCondicionaisExercicioSwitch" />
+  <component name="RunManager" selected="Application.LacodeRepeticao">
+    <configuration name="LacodeRepeticao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java10x.condicoes.LacodeRepeticao" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academia.filipe.maratonajava.introducao.*" />
+          <option name="PATTERN" value="java10x.condicoes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula27EstruturasDeReticaopt01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academia.filipe.maratonajava.introducao.Aula27EstruturasDeReticaopt01" />
+    <configuration name="SwitchCases" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java10x.condicoes.SwitchCases" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academia.filipe.maratonajava.introducao.*" />
+          <option name="PATTERN" value="java10x.condicoes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula28EstruturasDeRepeticaopt02ExercicioFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academia.filipe.maratonajava.introducao.Aula28EstruturasDeRepeticaopt02ExercicioFor" />
+    <configuration name="Ternarios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java10x.condicoes.Ternarios" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academia.filipe.maratonajava.introducao.*" />
+          <option name="PATTERN" value="java10x.condicoes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula29EstruturasDeRepeticaopt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academia.filipe.maratonajava.introducao.Aula29EstruturasDeRepeticaopt" />
+    <configuration name="desafio01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java10x.condicoes.desafio01" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academia.filipe.maratonajava.introducao.*" />
+          <option name="PATTERN" value="java10x.condicoes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Aula30EstruturasDeRepeticaoExercicioBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="academia.filipe.maratonajava.introducao.Aula30EstruturasDeRepeticaoExercicioBreak" />
+    <configuration name="scannersValidacaoDados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java10x.condicoes.scannersValidacaoDados" />
       <module name="maratona-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="academia.filipe.maratonajava.introducao.*" />
+          <option name="PATTERN" value="java10x.condicoes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Aula30EstruturasDeRepeticaoExercicioBreak" />
-        <item itemvalue="Application.Aula29EstruturasDeRepeticaopt" />
-        <item itemvalue="Application.Aula28EstruturasDeRepeticaopt02ExercicioFor" />
-        <item itemvalue="Application.Aula27EstruturasDeReticaopt01" />
-        <item itemvalue="Application.Aula26EstruturasCondicionaisExercicioSwitch" />
+        <item itemvalue="Application.LacodeRepeticao" />
+        <item itemvalue="Application.desafio01" />
+        <item itemvalue="Application.Ternarios" />
+        <item itemvalue="Application.SwitchCases" />
+        <item itemvalue="Application.scannersValidacaoDados" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +228,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726148749642</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Aulas e Exercicios novos do DevDojo">
+      <option name="closed" value="true" />
+      <created>1726685586086</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726685586086</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -229,7 +244,8 @@
     <MESSAGE value="Novos ensinamentos da maratona Java Virado no Jiraya" />
     <MESSAGE value="Aulas 13 até 16 do DevDojo" />
     <MESSAGE value="Aulas novas do DevDojo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aulas novas do DevDojo" />
+    <MESSAGE value="Aulas e Exercicios novos do DevDojo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aulas e Exercicios novos do DevDojo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
