@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67f3c3ec-e5d2-49d8-b18e-0fa20e051370" name="Changes" comment="Aulas novas do DevDojo">
-      <change afterPath="$PROJECT_DIR$/src/java10x/condicoes/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="67f3c3ec-e5d2-49d8-b18e-0fa20e051370" name="Changes" comment="Aulas novas do DevDojo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -220,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726148749642</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Aulas novas do DevDojo">
+      <option name="closed" value="true" />
+      <created>1732054186579</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732054186579</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -238,6 +243,7 @@
     <MESSAGE value="Novas aulas da maratona Java Virado no Jiraya" />
     <MESSAGE value="Novos ensinamentos da maratona Java Virado no Jiraya" />
     <MESSAGE value="Aulas 13 até 16 do DevDojo" />
+    <MESSAGE value="Curso novo (Java10x - Fiasco)" />
     <MESSAGE value="Aulas novas do DevDojo" />
     <option name="LAST_COMMIT_MESSAGE" value="Aulas novas do DevDojo" />
   </component>

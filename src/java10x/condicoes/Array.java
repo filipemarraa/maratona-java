@@ -7,12 +7,13 @@ public class Array {
         //String inicia como NULL!
 
         //Arrays sao tipos
-        String [] nomes = new String[5];
+        String [] nomes = new String[6];
         nomes[0] = "Filipe";
         nomes[1] = "jacobson";
         nomes[2] = "marra";
         nomes[3] = "jeferson";
         nomes[4] = "tavarez";
+        nomes[5] = "junior";
 
         //Array de idade
         int [] idade = new int[2];
