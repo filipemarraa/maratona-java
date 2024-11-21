@@ -1,4 +1,4 @@
-package java10x.condicoes;
+package java10x.NivelBasico.condicoes;
 
 /*
 Objetivo: Maneiras para reduzir o codigo

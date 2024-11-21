@@ -1,4 +1,4 @@
-package academia.filipe.maratonajava.introducao;
+package academia.filipe.maratonajava.introducao.EstruturaDeRepeticao;
 
 public class Aula30EstruturasDeRepeticaoExercicioBreak {
     //Dado o valor de um carro, descubra em quantas ele pode ser parcelado

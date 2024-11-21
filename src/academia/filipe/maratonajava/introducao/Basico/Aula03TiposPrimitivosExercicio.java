@@ -1,4 +1,4 @@
-package academia.filipe.maratonajava.introducao;
+package academia.filipe.maratonajava.introducao.Basico;
 /*
 Prática
 

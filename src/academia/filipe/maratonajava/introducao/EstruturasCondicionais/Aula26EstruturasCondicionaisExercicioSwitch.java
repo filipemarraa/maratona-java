@@ -1,4 +1,4 @@
-package academia.filipe.maratonajava.introducao;
+package academia.filipe.maratonajava.introducao.EstruturasCondicionais;
 
 public class Aula26EstruturasCondicionaisExercicioSwitch {
     public static void main(String[] args) {

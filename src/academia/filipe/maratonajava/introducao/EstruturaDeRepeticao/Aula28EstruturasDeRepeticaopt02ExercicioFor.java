@@ -1,4 +1,4 @@
-package academia.filipe.maratonajava.introducao;
+package academia.filipe.maratonajava.introducao.EstruturaDeRepeticao;
 
 public class Aula28EstruturasDeRepeticaopt02ExercicioFor {
     public static void main(String[] args) {

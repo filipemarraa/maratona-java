@@ -1,4 +1,4 @@
-package java10x;
+package java10x.NivelBasico.condicoes;
 
 public class dadosNaoPrimitivos {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package java10x.condicoes;
+package java10x.NivelBasico.condicoes;
 
 public class desafio01 {
     public static void main(String[] args) {
