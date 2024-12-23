@@ -1,6 +1,6 @@
 package java10x.condicoes;
 
-public class Array {
+public class  Array {
     public static void main(String[] args) {
 
         //Arrays sao tipo referencia!
